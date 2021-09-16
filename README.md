@@ -9,3 +9,11 @@ I'm Thiago Farias, Java Developer, and Software Architect.
 - 💬 I'm sharing some ideas on https://thiago-marsal.medium.com
 - 🌐 I speak 🇧🇷, 🇺🇸, and 🇪🇸
 - ⚡ Fun fact: I love IT, and I'm fascinated for learning
+
+<a href="https://github.com/thiagomarsal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomarsal&show_icons=true&theme=graywhite" />
+</a>
+<a href="https://github.com/thiagomarsal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomarsal&layout=compact" />
+</a>
+
