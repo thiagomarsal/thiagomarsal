@@ -22,14 +22,14 @@ I'm Thiago Farias, Java Developer and Software Architect.
 </div>
 
 <div style="display: inline_block"><br>
-  <a href="https://github.com/thiagomarsal/thiagomarsal">
+  <a href="https://github.com/thiagomarsal">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomarsal&show_icons=true&theme=graywhite" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomarsal&layout=compact" />
   </a>
 </div>
 
 <div style="display: inline-block"><br>
-  <a href="https://github.com/thiagomarsal/thiagomarsal">
+  <a href="https://github.com/thiagomarsal">
     <img align="center" alt="AngularJS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
     <img align="center" alt="React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img align="center" alt="JS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
