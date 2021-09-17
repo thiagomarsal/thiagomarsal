@@ -10,13 +10,13 @@ I'm Thiago Farias, Java Developer and Software Architect.
 - ⚡ Fun fact: I love IT, and I'm fascinated for learning
 
 <div style="display: inline_block"><br>
-  <a href="mailto:thiagomarsal.farias@gmail.com" target="blank">
+  <a href="mailto:thiagomarsal.farias@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/thiago-marsal-farias" target="blank">
+  <a href="https://www.linkedin.com/in/thiago-marsal-farias" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://thiago-marsal.medium.com" target="blank">
+  <a href="https://thiago-marsal.medium.com" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </div>
