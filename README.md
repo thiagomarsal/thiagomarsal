@@ -1,13 +1,13 @@
 ### Welcome 👋
 
-I'm Thiago Farias, Java Developer and Software Architect.
+I'm Thiago Farias, a Java Developer and Software Architect.
 
 - 🔭 I’m pursuing my second bachelor's degree in Cybersecurity
 - 🌱 I’m currently learning about Cybersecurity, Python, React JS, NoSQL, and Cloud.
 - 📫 How to reach me: use [my calendly](https://calendly.com/thiagomarsal) to schedule a meeting, I'm open to talk
 - 💬 I'm sharing some ideas on Medium
-- 🌐 I speak 🇧🇷, 🇺🇸, and 🇪🇸
-- ⚡ Fun fact: I love IT, and I'm fascinated for learning
+- 🌐 I speak Portuguese, English, and Spanish
+- ⚡ Fun fact: I love IT, and I'm fascinated by learning
 
 <div style="display: inline_block"><br>
   <a href="mailto:thiagomarsal.farias@gmail.com" target="_blank">
