@@ -6,7 +6,7 @@ I'm Thiago Farias, a Java Developer and Software Architect.
 - 🌱 I’m currently learning about Cybersecurity, Python, React JS, NoSQL, and Cloud.
 - 📫 How to reach me: use [my calendly](https://calendly.com/thiagomarsal) to schedule a meeting, I'm open to talk
 - 💬 I'm sharing some ideas on Medium
-- 🌐 I speak Portuguese, English, and Spanish
+- 🌐 I speak <img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="25">, <img title="English (US)" alt="English (US)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="25">, and <img title="Espanish" alt="Espanish (ES)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="25">
 - ⚡ Fun fact: I love IT, and I'm fascinated by learning
 
 <div style="display: inline_block"><br>
